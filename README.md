@@ -1,7 +1,7 @@
 Map path-finding and coloring Agent
 ==================================
 
-This project shows 3 different map coloring methods as well as 2 path-finding methods on a map.
+This project shows 3 different map coloring methods as well as 2 path-finding methods on a map along with their measured performance.
 
 **Coloring methods:**
   1. Min-Conflicts
